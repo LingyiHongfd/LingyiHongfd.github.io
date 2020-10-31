@@ -1,4 +1,4 @@
-## Welcome to LingYi Hong's homepage
+## Welcome to LingYi Hong's Homepage
 
 You can click [my github page](https://github.com/LingyiHongfd) to see what I am researching recently.
 
