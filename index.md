@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to LingYi Hong's homepage
 
-You can use the [editor on GitHub](https://github.com/LingyiHongfd/LingyiHongfd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can click [my github page](https://github.com/LingyiHongfd) to see what I am researching recently.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Brief Introduction
 
-### Markdown
+My github repositories include my course assignment and research project codes.
+Besides, some datasets for Deep Learning about Computer Vision have been alse uploaded, you can use it in google's colab by gitting clone if you want.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Course assignment
+Now, my repositories include some labs of my course assignment. It may be not updated in real time for some reasons.
+If you also need to take these courses and find that my code is helpful, please star! Many thanks!
 
-```markdown
-Syntax highlighted code block
+### Researching
+My researching interest is Video Object Segmentation. And I am still in the learning stage.
+If you are also studying or interested in Computer Vision or have some question, please contact me. Welcome anyone's coaching ang communication.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LingyiHongfd/LingyiHongfd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
