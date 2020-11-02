@@ -5,7 +5,7 @@ You can click [my github page](https://github.com/LingyiHongfd) to see what I am
 ### Brief Introduction
 
 My github repositories include my course assignment and research project codes.
-Besides, some datasets for Deep Learning about Computer Vision have been alse uploaded, you can use it in google's colab by gitting clone if you want.
+Besides, some datasets for Deep Learning about Computer Vision have been alse uploaded, you can use it in google's colab by git clone if you want.
 
 ### Course assignment
 Now, my repositories include some labs of my course assignment. It may be not updated in real time for some reasons.
