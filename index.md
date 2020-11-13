@@ -17,5 +17,5 @@ Now I have upload part of my course assignment:
 
 ### Researching
 My researching interest is Video Object Segmentation. And I am still in the learning stage.
-If you are also studying or interested in Computer Vision or have some question, please contact me. Welcome anyone's coaching ang communication. Your guidance means a lot to me!
+If you are also studying or interested in Computer Vision or have some question, please contact me. Welcome anyone's coaching and communication. Your guidance means a lot to me!
 
