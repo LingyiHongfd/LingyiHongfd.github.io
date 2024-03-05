@@ -17,3 +17,12 @@
 - The **first** long-term video object segmentation benchmark.
 </div>
 </div>
+
+- ``NeurIPS 2023`` [Reading Relevant Feature from Global Representation Memory for Visual Object Tracking](https://arxiv.org/abs/2402.14392), Xinyu Zhou, Pinxue Guo, **Lingyi Hong**, Jinglun Li, Wei Zhang, Weifeng Ge, Wenqiang Zhang
+
+
+- ``ACM MM 2023`` [SimulFlow: Simultaneously Extracting Feature and Identifying Target for Unsupervised Video Object Segmentation](https://arxiv.org/abs/2311.18286), **Lingyi Hong**, Wei Zhang, Shuyong Gao, Hong Lu, WenQiang Zhang
+
+- ``ACM MM 2023`` [Exploring the Adversarial Robustness of Video Object Segmentation via One-shot Adversarial Attacks](https://dl.acm.org/doi/abs/10.1145/3581783.3611827), Kaixun Jiang, **Lingyi Hong**, Zhaoyu Chen, Pinxue Guo, Zeng Tao, Yan Wang, Wenqiang Zhang
+
+- ``ACM MM 2023`` <span style="color:red">(Oral)</span> [Towards Decision-based Sparse Attacks on Video Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611828), Kaixun Jiang, Zhaoyu Chen, Xinyu Zhou, Jingyu Zhang, **Lingyi Hong**, JiaFeng Wang, Bo Li, Yan Wang, Wenqiang Zhang

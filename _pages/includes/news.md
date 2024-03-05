@@ -1,4 +1,9 @@
 # 🔥 News
+- _2024.03_: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. Congratulations to all co-authors!
+
+- _2023.09_: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023.
+
+- _2023.08_: &nbsp;🎉🎉 Three papers are accepted by ACM MM 2023. Congratulations to all co-authors!
 
 - _2023.07_: &nbsp;🎉🎉 [LVOS](https://arxiv.org/abs/2211.10181) has been accepted by ICCV 2023.
 
