@@ -1,5 +1,5 @@
 # 🔥 News
-- _2024.03_: &nbsp;🎉🎉 One paper is accepted by CVPR 2024. Congratulations to all co-authors!
+- _2024.03_: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 and is presented as <span style="color:red">Highlight</span>! Congratulations to all co-authors!
 
 - _2023.09_: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023.
 
