@@ -1,5 +1,27 @@
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024 & ICCV 2023</div><img src='images/publication/lvos/lvos.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[LVOS: A Benchmark for Large-scale Long-term Video Object Segmentation](https://arxiv.org/abs/2404.19326)
+
+**Lingyi Hong**, Zhongying Liu, Wenchao Chen, Chenzhi Tan, Yuang Feng, Xinyu Zhou, Pinxue Guo, Jinglun Li, Zhaoyu Chen, Shuyong Gao, Wei Zhang, Wenqiang Zhang
+
+
+[LVOS: A Benchmark for Long-term Video Object Segmentation](https://arxiv.org/abs/2211.10181)
+
+**Lingyi Hong**, Wenchao Chen, Zhongying Liu, Wei Zhang, Pinxue Guo, Zhaoyu Chen, Wenqiang Zhang
+
+[[**Paper V2**](https://arxiv.org/pdf/2404.19326)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Paper V1**](https://arxiv.org/pdf/2211.10181.pdf)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Home Page**](https://lingyihongfd.github.io/lvos.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Github**](https://github.com/LingyiHongfd/LVOS)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+
+- The **first** long-term video object segmentation benchmark.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/publication/onetracker/onetracker.png' alt="sym" width="100%"></div></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/publication/lvos/lvos.png' alt="sym" width="100%"></div></div> -->
@@ -18,25 +40,13 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/publication/lvos/lvos.png' alt="sym" width="100%"></div></div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/publication/lvos/lvos.png' alt="sym" width="100%"></div></div> -->
-
-<div class='paper-box-text' markdown="1">
-
-[LVOS: A Benchmark for Long-term Video Object Segmentation](https://arxiv.org/abs/2211.10181)
-
-**Lingyi Hong**, Wenchao Chen, Zhongying Liu, Wei Zhang, Pinxue Guo, Zhaoyu Chen, Wenqiang Zhang,
-
-[[**Paper**](https://arxiv.org/pdf/2211.10181.pdf)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
-[[**Home Page**](https://lingyihongfd.github.io/lvos.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
-[[**Github**](https://github.com/LingyiHongfd/LVOS)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
-
-- The **first** long-term video object segmentation benchmark.
-</div>
-</div>
 
 
+- ``ECCV 2024`` [OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework](https://arxiv.org/abs/2403.08682), 
+Wanyun Li, Pinxue Guo, Xinyu Zhou, **Lingyi Hong**, Yangji He, Xiangyu Zheng, Wei Zhang, Wenqiang Zhang
+
+- ``ECCV 2024`` [PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation](https://arxiv.org/abs/2309.12303), 
+Shilin Yan, Xiaohao Xu, Renrui Zhang, **Lingyi Hong**, Wenchao Chen, Wenqiang Zhang, Wei Zhang
 
 - ``NeurIPS 2023`` [Reading Relevant Feature from Global Representation Memory for Visual Object Tracking](https://arxiv.org/abs/2402.14392), 
 Xinyu Zhou, Pinxue Guo, **Lingyi Hong**, Jinglun Li, Wei Zhang, Weifeng Ge, Wenqiang Zhang
