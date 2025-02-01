@@ -1,4 +1,9 @@
 # 🔥 News
+- _2025.01_: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
+
+- _2024.09_: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
+
+- _2024.08_: &nbsp;🎉🎉 Two papers are accepted by ACM MM 2024.
 
 - _2024.07_: &nbsp;🎉🎉 Two papers are accepted by ECCV 2024.
 

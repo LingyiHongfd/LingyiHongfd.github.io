@@ -3,6 +3,7 @@ I am a Ph.D. student in Fudan University, supervided by Prof. Wenqiang Zhang. I 
 My research interest includes:
 
 - Computer vision
+- Multimodal Large Language Model
 - Video understanding
 - Image generation
 - 3D vision
