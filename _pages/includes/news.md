@@ -1,4 +1,8 @@
 # 🔥 News
+- _2025.07_: &nbsp;🎉🎉 I'm organizing the [7th Large-Scale Video Object Segmentation (LSVOS) Challenge](https://lsvos.github.io)! Welcome to attend!
+
+- _2025.06_: &nbsp;🎉🎉 One paper is accepted by ICCV 2025. Congratulations to all co-authors!
+
 - _2025.01_: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
 
 - _2024.09_: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
