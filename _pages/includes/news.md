@@ -1,4 +1,8 @@
 # 🔥 News
+- _2025.09_: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
+
+- _2025.09_: &nbsp;🎉🎉 LVOS V2 is accepted by T-PAMI 2025.
+
 - _2025.07_: &nbsp;🎉🎉 I'm organizing the [7th Large-Scale Video Object Segmentation (LSVOS) Challenge](https://lsvos.github.io)! Welcome to attend!
 
 - _2025.06_: &nbsp;🎉🎉 One paper is accepted by ICCV 2025. Congratulations to all co-authors!

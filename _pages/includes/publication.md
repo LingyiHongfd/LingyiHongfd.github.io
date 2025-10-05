@@ -35,11 +35,11 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024 & ICCV 2023</div><img src='images/publication/lvos/lvos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025 & ICCV 2023</div><img src='images/publication/lvos/lvos.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
-[LVOS: A Benchmark for Large-scale Long-term Video Object Segmentation](https://arxiv.org/abs/2404.19326)
+[LVOS: A Benchmark for Large-scale Long-term Video Object Segmentation](https://ieeexplore.ieee.org/document/11168273)
 
 **Lingyi Hong**, Zhongying Liu, Wenchao Chen, Chenzhi Tan, Yuang Feng, Xinyu Zhou, Pinxue Guo, Jinglun Li, Zhaoyu Chen, Shuyong Gao, Wei Zhang, Wenqiang Zhang
 
@@ -48,7 +48,7 @@
 
 **Lingyi Hong**, Wenchao Chen, Zhongying Liu, Wei Zhang, Pinxue Guo, Zhaoyu Chen, Wenqiang Zhang
 
-[[**Paper V2**](https://arxiv.org/pdf/2404.19326)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Paper V2**](https://ieeexplore.ieee.org/document/11168273)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
 [[**Paper V1**](https://arxiv.org/pdf/2211.10181.pdf)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
 [[**Home Page**](https://lingyihongfd.github.io/lvos.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
 [[**Github**](https://github.com/LingyiHongfd/LVOS)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
