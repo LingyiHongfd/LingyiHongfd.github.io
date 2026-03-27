@@ -1,4 +1,8 @@
 # 🔥 News
+- _2026.01_: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
+
+- _2025.11_: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
+
 - _2025.09_: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
 
 - _2025.09_: &nbsp;🎉🎉 LVOS V2 is accepted by T-PAMI 2025.
