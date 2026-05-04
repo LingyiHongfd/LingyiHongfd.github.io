@@ -1,4 +1,6 @@
 # 🔥 News
+- _2026.05_: &nbsp;🎉🎉 Two paper is accepted by ICML 2026.
+
 - _2026.01_: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
 
 - _2025.11_: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.

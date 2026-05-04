@@ -1,6 +1,89 @@
 # 📝 Publications
 
 ## 🤖 Multimodal Large Language Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxix 2026</div><img src='images/publication/redsearcher/redsearcher.png' alt="sym" height="80%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents](https://arxiv.org/pdf/2602.14234)
+
+Zheng Chu\*, Xiao Wang\*, **Jack Hong\***, Huiming Fan, Yuqi Huang, Yue Yang, Guohai Xu, Shengchao Hu, Dongdong Kuang, Chenxiao Zhao, Cheng Xiang, Ming Liu, Bing Qin, Xing Yu
+
+[[**Paper**](https://arxiv.org/pdf/2602.14234)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Arxiv**](https://arxiv.org/abs/2602.14234)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Homepage**](https://redsearchagent.github.io/index/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Github**](https://github.com/RedSearchAgent/REDSearcher)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+
+- The *first* to match the performance of Gemini 3 Pro on complex multimodal search tasks.
+- Scalable task synthesis via graph-structured reasoning with topological complexity control.
+- Cost-efficient training via mid-training of core search-agent subskills.
+- SOTA performance across both text-only and multimodal benchmarks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publication/deepeyesv2/deepeyesv2.png' alt="sym" height="80%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[DeepEyesV2: Toward Agentic Multimodal Model](https://openreview.net/pdf?id=yDKawwfJ5O)
+
+**Jack Hong\***, Chenxiao Zhao\*, ChengLin Zhu\*, Weiheng Lu, Guohai Xu, Xing Yu
+
+[[**Paper**](https://openreview.net/pdf?id=yDKawwfJ5O)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Arxiv**](https://arxiv.org/abs/2511.05271)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Homepage**](https://visual-agent.github.io/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Github**](https://github.com/Visual-Agent/DeepEyesV2)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+
+- The **first** to unify code execution and web search within a single reasoning loop like o3.
+- We construct a carefully curated training corpus through rigorous data filtering and cleaning.
+- DeepEyesV2 has strong reasoning and tool-usage ability.
+- We analyze the dynamics of tool-use behavior in DeepEyesV2, revealing task-adaptive patterns.
+- we find reinforcement learning can enable more complex tool combinations and adaptive, context-aware tool invocation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publication/deepeyes/deepeyes.png' alt="sym" height="80%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://openreview.net/pdf?id=xUyMXkI958)
+
+Ziwei Zheng\*, Michael Yang\*, **Jack Hong\***, Chenxiao Zhao\*, Guohai Xu, Le Yang, Chao Shen, Xing Yu
+
+[[**Paper**](https://openreview.net/pdf?id=xUyMXkI958)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Arxiv**](https://arxiv.org/abs/2505.14362)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Homepage**](https://visual-agent.github.io/v1/index.html)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Github**](https://github.com/Visual-Agent/DeepEyes)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+
+- The **first** to "thinking with image" like o3.
+- We incentivize the ability to "thinking with images" via end-to-end reinforcement learning, without requiring a cold start.
+- We reveal the intriguing RL training dynamic, where active perception behavior under-goes distinct stages, evolving from initial exploration to efficient and accurate exploitation. 
+- We observe diverse reasoning patterns, such as visual search, comparison, and confirmation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publication/worldsense/worldsense.png' alt="sym" height="80%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs](https://openreview.net/pdf?id=YxsfxAvJv4)
+
+**Jack Hong**, Shilin Yan, Jiayin Cai, Xiaolong Jiang, Yao Hu, Weidi Xie
+
+[[**Paper**](https://openreview.net/pdf?id=YxsfxAvJv4)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Arxiv**](https://arxiv.org/abs/2502.04326)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Homepage**](https://jaaackhongggg.github.io/WorldSense/)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+[[**Github**](https://github.com/JaaackHongggg/WorldSense)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+
+- The **first** benchmark tailored for evaluating MLLMs’ ability on omni-modal video understanding.
+- WorldSense features integrated audio-visual inputs, diverse content, and high-quality question-answering annotations.
+- We expose a significant gap in real-world omni-modal reasoning. 
+- We identify the key factors influencing omni-modal understanding.
+</div>
+</div>
+
+
 - ``Arxiv 2026`` [RSAgent: Learning to Reason and Act for Text-Guided Segmentation via Multi-Turn Tool Invocations](https://arxiv.org/abs/2512.24023), 
 Xingqi He, Yujie Zhang, Shuyong Gao, Wenjie Li, **Lingyi Hong**, Mingxi Chen, Kaixun Jiang, Jiyuan Fu, Wenqiang Zhang
 
