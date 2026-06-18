@@ -2,7 +2,7 @@
 
 ## 🤖 Multimodal Large Language Model
 
-- ``Arxiv 2026`` [RSAgent: Learning to Reason and Act for Text-Guided Segmentation via Multi-Turn Tool Invocations](https://arxiv.org/abs/2512.24023), 
+- ``ICML 2026`` [RSAgent: Learning to Reason and Act for Text-Guided Segmentation via Multi-Turn Tool Invocations](https://arxiv.org/abs/2512.24023), 
 Xingqi He, Yujie Zhang, Shuyong Gao, Wenjie Li, **Lingyi Hong**, Mingxi Chen, Kaixun Jiang, Jiyuan Fu, Wenqiang Zhang
 
 - ``Arxiv 2025`` [CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms](https://arxiv.org/abs/2505.17020), 
@@ -12,6 +12,23 @@ Shilin Yan, Jiaming Han, Joey Tsai, Hongwei Xue, Rongyao Fang, **Lingyi Hong**, 
 Pinxue Guo, Chongruo Wu, Xinyu Zhou, **Lingyi Hong**, Zhaoyu Chen, Jinglun Li, Kaixun Jiang, Sen-Ching Samson Cheung, Wei Zhang, Wenqiang Zhang
 
 ## 🧭 Visual Object Tracking and Segmentation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publication/onetrackerv2/onetrackerv2.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[Unified Multimodal Visual Tracking with Dual Mixture-of-Experts](https://arxiv.org/abs/2403.09634)
+
+**Lingyi Hong**, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang
+
+[[**Paper**](https://arxiv.org/pdf/2605.03716)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>]
+
+- A unified architecture with shared parameters, trained once to handle multiple multimodal tracking tasks.
+- Introduce DMoE to decouple spatio-temporal relation modeling from multimodal feature embedding.
+- SOTA performance on 5 tracking task 12 benchmarks.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/compresstracker/compresstracker.png' alt="sym" width="100%"></div></div>
 
