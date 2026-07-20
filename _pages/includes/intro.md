@@ -10,6 +10,7 @@ I have published about <span style="font-weight:800;">30</span> papers at top-ti
 My research interest includes:
 
 - Agent
+- Large Language Model
 - Multimodal Large Language Model
 - Computer vision
 - Video understanding

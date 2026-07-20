@@ -1,4 +1,6 @@
 # 🔥 News
+- _2026.07_: &nbsp;🎉🎉 I'm organizing the [8th Large-Scale Video Object Segmentation (LSVOS) Challenge](https://lsvos.github.io)! Welcome to attend!
+
 - _2026.05_: &nbsp;🎉🎉 Two paper is accepted by ICML 2026.
 
 - _2026.01_: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
@@ -9,7 +11,7 @@
 
 - _2025.09_: &nbsp;🎉🎉 LVOS V2 is accepted by T-PAMI 2025.
 
-- _2025.07_: &nbsp;🎉🎉 I'm organizing the [7th Large-Scale Video Object Segmentation (LSVOS) Challenge](https://lsvos.github.io)! Welcome to attend!
+- _2025.07_: &nbsp;🎉🎉 I'm organizing the [7th Large-Scale Video Object Segmentation (LSVOS) Challenge](https://lsvos.github.io/index_2025.html)! Welcome to attend!
 
 - _2025.06_: &nbsp;🎉🎉 One paper is accepted by ICCV 2025. Congratulations to all co-authors!
 
@@ -21,7 +23,7 @@
 
 - _2024.07_: &nbsp;🎉🎉 Two papers are accepted by ECCV 2024.
 
-- _2024.07_: &nbsp;🎉🎉 I'm organizing the [6th Large-Scale Video Object Segmentation (LSVOS) Challenge](https://lsvos.github.io)! Welcome to attend!
+- _2024.07_: &nbsp;🎉🎉 I'm organizing the [6th Large-Scale Video Object Segmentation (LSVOS) Challenge](https://lsvos.github.io/index_2024.html)! Welcome to attend!
 
 - _2024.04_: &nbsp;🎉🎉 [LVOS V2](https://arxiv.org/abs/2404.19326) has been released! Welcome for following!
 
